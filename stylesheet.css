@@ -1,0 +1,53 @@
+body{
+    background-color: #DCDCDC;
+    
+}
+a:hover {
+    background-color: rgb(214, 209, 202);
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+li{
+    display: inline;
+}
+
+li a {
+    display: inline;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: rgb(214, 209, 202);
+}
+.linkadd{
+    background-color:#2F4F4F;
+    color: white;
+    padding: 14px 16px;
+}
+.linkadd :hover{
+    background-color:#EBF1F6;
+    color: black;
+    padding: 14px 16px;
+}
+#titre{
+    text-align:center;
+    margin-top:20px;
+    margin-bottom:80px;
+    text-decoration: underline;
+    font-size: 80px;
+    font-weight: 400;
+}
+.model{
+    background-image:url("images/model.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 500px;
+    
+}
